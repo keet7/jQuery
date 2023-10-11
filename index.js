@@ -12,10 +12,14 @@ $("button");
 $("h1").addClass("big-title margin-50");
 //$("h1").removeClass("big-title");
 
-*/
+
 
 $("h1").text("Bye");
 
 $("button").text("Don't Click Me");
 
-$("button").html("<em>Hey</em>");
+$("button").html("<em>Hey</em>");*/
+
+//$("img").attr("src");
+
+$("a").attr("href", "https://www.yahoo.com");
